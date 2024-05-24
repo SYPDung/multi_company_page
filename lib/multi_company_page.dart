@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'multi_company_page_platform_interface.dart';
-
 class MultiCompanyPage extends StatelessWidget {
   const MultiCompanyPage({super.key});
 
