@@ -7,12 +7,12 @@ class MultiCompanyPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Company 1 Page'),
+        title: const Text('Company 2 Page'),
       ),
       body: Column(
         children: [
-          const Text('Company 1 Page'),
-          // const Text('Company 1 Page'),
+          const Text('Company 2 Page'),
+          const Text('Company 2 Page'),
           // ElevatedButton(
           //   onPressed: () {},
           //   child: const Text("Button"),
